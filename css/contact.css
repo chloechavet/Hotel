@@ -1,0 +1,100 @@
+.navbar-brand img
+{
+    max-height: 40px;
+}
+.navbar-brand
+{
+    font-family: 'lobster', cursive;
+    font-size: 1.5rem;
+}
+.bg-light 
+{
+    background-color:#ffffff!important;
+}
+.nav-item
+{
+    font-family: 'Gilda Display', serif;
+    font-size: large;
+}
+.navbar-light .navbar-nav .nav-link
+{
+    color: black;
+}
+.nav-link:hover
+{
+    color: #a04a4f;
+}
+header .row
+{
+    background-image: url(https://zupimages.net/up/20/13/ercu.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 70vh;
+    align-items: center;
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+header .formReservation
+{
+    background-color: rgba(248, 249, 250, 0.26);
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+}
+header .slogan
+{
+    display: flex;
+    min-height: 70vh;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+@media (max-width: 768px) {  
+    header .slogan{
+        display: none;
+    }
+}
+h1
+{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 4rem;
+}
+h2
+{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 4rem;
+    background-color: #a04a4f;
+    border-radius: 10px;
+}
+.top
+{
+    font-family: 'Gilda Display', serif;
+    text-align: center;
+    font-size: 1.5rem;
+}
+.formContact
+{
+    font-family: 'Gilda Display', serif;
+}
+footer
+{
+    background-color: #dfceb7;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    font-family: 'Lobster', cursive;
+    font-size: 1.5rem;
+}
+footer a
+{
+    color:#a04a4f;
+    font-size: 2rem;
+    transition: all .2s ease-in-out;
+    padding: .5rem;
+}
+footer a:hover
+{
+    color: white;
+    text-decoration: none;
+}

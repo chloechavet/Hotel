@@ -1,0 +1,118 @@
+.navbar-brand img
+{
+    max-height: 40px;
+}
+.navbar-brand
+{
+    font-family: 'lobster', cursive;
+    font-size: 1.5rem;
+}
+.bg-light 
+{
+    background-color:#ffffff!important;
+}
+.nav-item
+{
+    font-family: 'Gilda Display', serif;
+    font-size: large;
+}
+.navbar-light .navbar-nav .nav-link
+{
+    color: black;
+}
+.nav-link:hover
+{
+    color: #a04a4f;
+}
+header .row
+{
+    background-image: url(https://zupimages.net/up/20/13/ercu.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 70vh;
+    clip-path: polygon(0 0, 100% 0%, 100% 55%, 0 70%);  
+}
+h2
+{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 4rem;
+    margin-top: -5rem;
+}
+.presentation
+{
+    text-align: center;
+    font-family: 'Gilda Display', serif;
+}
+.chambre1
+{
+    background-image: url(https://zupimages.net/up/20/15/f85v.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: calc(100vh - 70px);
+}
+.chambre2
+{
+    background-image: url(https://zupimages.net/up/20/13/kxay.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: calc(100vh - 70px);
+}
+.chambre3
+{
+    background-image: url(https://zupimages.net/up/20/13/yw92.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: calc(100vh - 70px);
+}
+.chambre4
+{
+    background-image: url(https://zupimages.net/up/20/15/ip9l.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: calc(100vh - 70px);
+}
+.titre
+{
+    text-align: center;
+    background-color: white;
+    color: #a04a4f;
+    font-size: 2.5rem;
+    font-family: 'Lobster', cursive;
+}
+.text
+{
+    text-align: center;
+    background-color: #dfceb7;
+    color: black;
+    border-radius: 10px;
+    font-family: 'Gilda Display', serif;
+    padding: .5rem .5rem;
+}
+.description
+{
+    font-weight: bolder;
+    font-family: 'Lobster', cursive;
+    font-size: large;
+}
+footer
+{
+    background-color: #dfceb7;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    font-family: 'Lobster', cursive;
+    font-size: 1.5rem;
+}
+footer a
+{
+    color:#a04a4f;
+    font-size: 2rem;
+    transition: all .2s ease-in-out;
+    padding: .5rem;
+}
+footer a:hover
+{
+    color: white;
+    text-decoration: none;
+}

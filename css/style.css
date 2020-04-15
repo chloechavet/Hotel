@@ -1,0 +1,68 @@
+.navbar-brand img
+{
+    max-height: 40px;
+}
+.navbar-brand
+{
+    font-family: 'lobster', cursive;
+    font-size: 1.5rem;
+}
+.bg-light 
+{
+    background-color:#ffffff!important;
+}
+.nav-item
+{
+    font-family: 'Gilda Display', serif;
+    font-size: large;
+}
+.navbar-light .navbar-nav .nav-link
+{
+    color: black;
+}
+.nav-link:hover
+{
+    color: #a04a4f;
+}
+header .row
+{
+    background-image: url(https://zupimages.net/up/20/13/ercu.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 70vh;
+    clip-path: polygon(0 0, 100% 0%, 100% 55%, 0 70%);  
+}
+h1
+{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 4rem;
+    margin-top: -15vh;
+}
+.text1
+{
+    text-align: center;
+    font-family: 'Gilda Display', serif;
+    font-size: 1.5rem;
+}
+footer
+{
+    background-color: #dfceb7;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    font-family: 'Lobster', cursive;
+    font-size: 1.5rem;
+}
+footer a
+{
+    color:#a04a4f;
+    font-size: 2rem;
+    transition: all .2s ease-in-out;
+    padding: .5rem;
+}
+footer a:hover
+{
+    color: white;
+    text-decoration: none;
+}
